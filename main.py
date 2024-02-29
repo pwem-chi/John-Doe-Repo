@@ -1,2 +1,3 @@
 # Look at my super awesome code! Yeah!
-print("Hello World")
+user_name = input("Please enter your name : ")
+greeting = f"Welcome, {user_name}, we have been waiting for you."
